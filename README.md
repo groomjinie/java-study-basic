@@ -1,7 +1,7 @@
-# Java-study-basic
+# Java-study Log
 ## 📅 2026-01-14
 ### 📚 학습 내용
-- Java 조건문
+### Java 조건문
     - if
     - if-else
     - if-else if-else
@@ -27,3 +27,16 @@
         - 월 기준 계절 판단(switch)
         - 분기별 정보(if문)
 
+
+
+## 📅 2026-01-14
+### 📚 학습 내용
+### 반복문
+    - for: 정해진 횟수 반복
+    - while: 조건이 true일 때 반복
+    - do-while: 최소 1회 실행 후 반복
+    - for-each: 배열/컬렉션 순회
+
+### 반복 제어
+    - break: 반복 즉시 종료
+    - continue: 현재 반복 건너뛰기 
